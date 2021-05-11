@@ -4,6 +4,10 @@
   <img src="presentation/img/readme_img_1.jpg" width="100%"></img>
 </p>
 
+<p align="middle">
+  <img src="presentation/img/readme_img_2.jpg" width="100%"></img>
+</p>
+
 ## Authors
 - [Harshit Varma](https://github.com/hrshtv)
 - [Gaurav P](https://github.com/gaurav638012)

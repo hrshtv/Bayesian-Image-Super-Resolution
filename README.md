@@ -8,7 +8,7 @@ A Bayesian framework for Multi-Frame Image Super-Resolution, based on ["Bayesian
   
 For more details, check out:
 - [Report](report/report.pdf)
-- [Presentation](presentation/main.pptx)
+- [Presentation](presentation/main.pdf)
 
 ## Results Overview
 

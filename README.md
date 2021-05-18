@@ -6,6 +6,8 @@
 
 A Bayesian framework for Multi-Frame Image Super-Resolution, based on ["Bayesian Image Super-Resolution" (ME Tipping and CM Bishop, NeurIPS 2003)](https://papers.nips.cc/paper/2315-bayesian-image-super-resolution.pdf). 
   
+It's a two-stage method wherein the image registration parameters are estimated in the first stage, followed by estimating the HR image in the second stage. The registration parameters are estimated using the marginal likelihood, computed using using a Gaussian process prior over the HR image. In the second stage, any relevant prior (eg. MRF, TV) can be used for estimating the HR image.
+  
 For more details, check out:
 - [Report](report/report.pdf)
 - [Presentation](presentation/main.pdf)

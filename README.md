@@ -19,7 +19,7 @@ For more details, check out:
 ## Visualization of the HR Image Estimation
 
 <p align="middle">
-  <img src="presentation/img/mfsr.gif" width="40%"></img>
+  <img src="presentation/img/mfsr_tv.gif" width="40%"></img>
 </p>
 
 ## Authors
